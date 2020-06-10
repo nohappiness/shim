@@ -1,0 +1,1 @@
+make RELEASE=15 ENABLE_HTTPBOOT=true EFI_PATH=/usr/lib VENDOR_CERT_FILE=deepin.cert.der EFIDIR=deepin
